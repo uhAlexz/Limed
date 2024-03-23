@@ -7,7 +7,7 @@
   <a>The #1 Discord Webhook Spammer</a>
 </p>
 <p align="center">
-    <a href="https://github.com/papasnags/Discord-Webhook-Spammer/releases">
+    <a href="https://github.com/uhAlexz/Limed/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/uhAlexz/Limed.svg">
     </a>
 </p>
