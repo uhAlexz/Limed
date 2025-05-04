@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    🍋 Limed
+    🍋‍🟩 Limed
     <br>
 <h1>
 <p align="center">
