@@ -13,7 +13,7 @@
 </p>
 
 ## 📚 Features
-* !version = Gives the version of the webhook spamemr
+* !version = Gives the version of the webhook spammer
 * !spam = The actual webhook spammer
 * q = Quit the spammer.
 
@@ -23,13 +23,13 @@
 * Use !spam, then follow the direction(s).
 
 ## ❗ Extra
-__Created by: uhAlexz___ | *This isn't created for malicious intent and only educational purposes!*
+__Created by: uhAlexz___ | *This isn't created for malicious intent and only for educational purposes!*
 - Twitter: https://twitter.com/uhAlexz
 - GitHub: https://github.com/uhAlexz
 - Discord: uhalexz_
 
 ## 🐛 Virus Free!
-This webhook spammer is virus free, if you don't trust me then look at the VirusTotal reports on this and Tria.ge scan on this too. I swear, that this webhook spammer isn't riddled with virus from left to right.
+This webhook spammer is virus-free. If you don't trust me, then look at the VirusTotal reports on this and the Tria.GE scan on this, too.
 ---
 <img src="https://i.imgur.com/9vXMkjU.png">
 <img src="https://i.imgur.com/MyghLCV.png">
